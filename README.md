@@ -18,8 +18,13 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   
-  ![Snake animation](https://github.com/marcosaureliosl/marcosaureliosl/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
 
+  ![Snake animation](https://github.com/marcosaureliosl/marcosaureliosl/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
 
 ### Começando neste unirveso 📔
 
