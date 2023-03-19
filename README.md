@@ -6,9 +6,12 @@
 [![istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=15gjkzjtg4rkr&utm_content=32xyne)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosaureliosl)
 
-![Marcos Aurelio GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosaureliosl&show_icons=true&theme=cobalt)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaureliosl&theme=dracula&hide_border=false&&layout=compact"/>
-</a>
+<div align="center">
+  <a href="https://github.com/marcosaureliosl">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosaureliosl&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaureliosl&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Tecnologias que estou desenvolvendo ✍️
 
