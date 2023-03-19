@@ -5,8 +5,8 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/tomiokito)
 [![istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=15gjkzjtg4rkr&utm_content=32xyne)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosaureliosl)
-
-<div align="center">
+            
+<div>
   <a href="https://github.com/marcosaureliosl">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosaureliosl&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaureliosl&theme=dracula&hide_border=false&&layout=compact"/>
