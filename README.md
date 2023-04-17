@@ -26,7 +26,7 @@
            
 </div align="center">
 
-## Tecnologias que estou desenvolvendo ✍️
+## Tecnologias em estudo para o desenvolvendo ✍️
 </div>
 
 <div style="disply: inline_block"><br/>
