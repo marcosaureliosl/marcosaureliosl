@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06c4ab&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Aurelio;I'm+38+years+old;I'm+from+Brazil;I+Graduated+administration;+post+gestation+of+people;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcosaureliosl&bg_color=008080&color=df84d0&line=b145eb&point=ee9806&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcosaureliosl&bg_color=334054&color=df84d0&line=b145eb&point=d37446&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcosaureliosl&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
