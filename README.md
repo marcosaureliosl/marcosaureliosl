@@ -59,6 +59,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosaureliosl}/count.svg" /></p> 
 <br>
 </div>
+  
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0614c4&height=120&section=footer"/>
