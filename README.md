@@ -30,7 +30,7 @@
            
 <div align="center">
 
-## Tecnologias em estudo para o desenvolvendo ✍️
+## Habilidades em desenvolvimento ✍️
 </div>
 
 <div style="disply: inline_block"><br/>
