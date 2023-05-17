@@ -28,7 +28,7 @@
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosaureliosl&theme=github_dark" />
 </p>
            
-</div align="center">
+<div align="center">
 
 ## Tecnologias em estudo para o desenvolvendo ✍️
 </div>
@@ -43,9 +43,9 @@
   </div>
   
   <div align="center">
-
-  
-
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=marcosaureliosl&theme=tokyonight_duo&hide_border=true"
+</p>
 </div>
 
 <div align="center">
