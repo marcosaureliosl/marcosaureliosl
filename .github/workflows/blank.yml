@@ -17,7 +17,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2.5.1
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
