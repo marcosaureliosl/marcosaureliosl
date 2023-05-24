@@ -61,7 +61,19 @@
 </div>
   
   ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+  <hr>
 
+ 
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+  
+   <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=0614c4&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0614c4&height=120&section=footer"/>
 
