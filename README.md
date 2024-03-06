@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06c4ab&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Aurelio;I'm+39+years+old;I'm+from+Brazil;I+Graduated+administration;+post+gestation+of+people;Full+Stack+Studant!;Be+Welcome!+:%29)](https://git.io/typing-svg)
  -->
 
-<img align="right" height="560em" width="600px" src="https://raw.githubusercontent.com/gist/marcosaureliosl/d2abee637d63264c69a8e3b26492fa52/raw/dd68411f8f7a9b42b4314aa43bdc395a571381a2/githubcardfoto.svg" style="border: 3px solid #5a43ff;"/>
+<img align="right" height="560em"  src="https://raw.githubusercontent.com/gist/marcosaureliosl/d2abee637d63264c69a8e3b26492fa52/raw/dd68411f8f7a9b42b4314aa43bdc395a571381a2/githubcardfoto.svg" style="border: 3px solid #5a43ff;"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Aurelio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosaureliosl&color=blue" /> </p>
