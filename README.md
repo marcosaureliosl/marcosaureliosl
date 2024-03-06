@@ -7,7 +7,7 @@
 <img align="right" height="560em" width="600px" src="https://raw.githubusercontent.com/gist/marcosaureliosl/d2abee637d63264c69a8e3b26492fa52/raw/dd68411f8f7a9b42b4314aa43bdc395a571381a2/githubcardfoto.svg" style="border: 3px solid #5a43ff;"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcos Aurelio</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosaureliosl&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosaureliosl&color=blue" /> </p>
  
 
 🔥 Web Developer focused on helping and making things happen.
