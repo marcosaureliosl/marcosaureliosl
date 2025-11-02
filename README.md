@@ -89,7 +89,7 @@ Docker · Git · GitHub · VS Code · Canva · Moodle
 ### 🧩 Personal Projects
 | Projeto | Descrição |
 |----------|------------|
-| [🗺️ Roteiro de Viagem](https://roteito-viagem.vercel.app/) | App para planejar e visualizar roteiros personalizados de viagem. |
+| [🗺️ Roteiro de Viagem](https://roteito-viagem.vercel.app/) | App para visualizar roteiros personalizados de viagem com WaseApi |
 | [🔍 Busca de Repositórios GitHub](https://busca-repositorios-git.vercel.app/) | Interface para pesquisar repositórios do GitHub via API. |
 | [⚡ Jogo da Memória - Harry Potter](https://jogo-da-memoria-harrypotter.vercel.app/) | Jogo da memória temático com React e animações mágicas. |
 | [💖 Jogo da Velha - Juju Edition](https://projeto-jogodavelha-juju.vercel.app/) | Projeto especial feito para minha filha que ama jogo da velha. |
@@ -97,10 +97,11 @@ Docker · Git · GitHub · VS Code · Canva · Moodle
 ### 💼 Professional Work
 | Projeto | Descrição |
 |----------|------------|
-| [💰 Financeiro Capim](https://financeiro-capim-dev.vercel.app/) | Plataforma de gestão financeira SaaS com React + NestJS + PostgreSQL. |
-| [🐄 APL Ranch](https://apl-ranch-front-dev.vercel.app/) | Sistema completo de gestão agropecuária multi-tenant. |
-| [🎬 Áudio Visual Niterói](https://audio-visual-niteroi-front.vercel.app/) | Portal institucional com CMS e painel administrativo. |
-| [🎟️ FeShow Eventos](https://test.feshow.app.br/?redirect=%2Fgeral%2Fgestao-eventos%2F36516fbf-fdd9-4681-abfb-af620f5ab860) | App de gestão de eventos com dashboards e controle de credenciais. |
+| [💰 Financeiro Capim](https://financeiro-capim-dev.vercel.app/) | Plataforma de gestão financeira SaaS com React + NestJS + Nest + PostgreSQL.&nbsp; |
+| [🐄 APL Ranch](https://apl-ranch-front-dev.vercel.app/) | Sistema completo de gestão agropecuária multi-tenant.&nbsp; |
+| [🎬 Áudio Visual Niterói](https://audio-visual-niteroi-front.vercel.app/) | Portal institucional com CMS e painel administrativos.&nbsp; |
+| [🎟️ FeShow Eventos](https://test.feshow.app.br/?redirect=%2Fgeral%2Fgestao-eventos%2F36516fbf-fdd9-4681-abfb-af620f5ab860) | App de gestão de eventos com dashboards e controle de credenciais.&nbsp; |
+
 
 ---
 
